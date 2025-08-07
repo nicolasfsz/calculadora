@@ -1,10 +1,10 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 
-export default function Home() {
+export default function Impar() {
   return (
     <>
-    <h1>nickin</h1>
+    <h1>Ímpar</h1>
 
     </>
   );
